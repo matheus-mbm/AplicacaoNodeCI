@@ -1,0 +1,24 @@
+﻿{
+  "name": "aplicacaonodeaula",
+  "version": "1.0.0",
+  "description": "Aplicativo da Aula",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo Error: no test specified && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheus-mbm/AplicacaoNodeCI.git"
+  },
+  "keywords": [
+    "Aplicação",
+    "Aula",
+    "Teste"
+  ],
+  "author": "Matheus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheus-mbm/AplicacaoNodeCI/issues"
+  },
+  "homepage": "https://github.com/matheus-mbm/AplicacaoNodeCI#readme"
+}
